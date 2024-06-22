@@ -56,7 +56,7 @@ Welcome to the UC Davis Data Science Club Projects and Workshops repository! Thi
   - Discusses SQL workspace setup, basic queries, data access, modification, and joins.
 
 - **File:** `Workshops/SQL Workshops/SQL Workshop 2.pptx`
-- **Description:** Advanced SQL workshop, building on Workshop 1.
+- **Description:** Advanced SQL workshop, co-led with Apoorva Hooda and Steven Ha.
   - Covers review of SQL basics, continued exploration of joins, and introduction to analytic functions.
 
 I initially participated as a regular member in the credit card fraud project under the leadership of Ru Han Wang. Later, I became an officer in the club, specifically serving as the education lead. In this role, I co-led workshops aimed at educating members about various aspects of data science.
