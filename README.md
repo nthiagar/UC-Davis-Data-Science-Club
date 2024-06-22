@@ -62,10 +62,27 @@ This repository contains a group project and workshops I co-led for the Davis Da
   - Ggplot2
   - Regression
 - **File:** `Data Visualization Workshop.pptx`
-- **Description:** Presentation Slides to accompany code file. Collaborative effort with Apoorva Hooda and Steven Ha
-  - importnace of data visualization and what it is
-  - Good vs. Bad visualziations
-  - Ggplot2, matplotliv, seaborn
+- **Description:** Presentation Slides to accompany code file. Collaborative effort with Cindy Chen and Aditya Seth.
+  - What is R and Rstudio
+  - Going over code
+  - Intro to Ggplot2
+
+### 4. SQL Workshops
+- **File:** `SQL Workshop.pptx`
+- **Description:** Presentation to give an introduction to SQL, SQL example code is included in sldies. Collaborative effort with Cindy Chen and Aditya Seth
+  - Creating Your SQL Workspace
+  - What is SQL and why should we learn it?
+  - Databases
+  - Acessing Data
+  - Changing Data
+  - Joins
+- **File:** `SQL Workshop 2.pptx`
+- **Description:** Presentation to go more in depth into SQL, SQL example code is included in sldies.Collaborative effort with Apoorva Hooda and Steven Ha
+  - Reveiw of SQL Workshop 1
+  - Joins Continued
+  - Analytic Functions
+
+I co-led the workshops as an officer specficllay and education lead for the club. The prohect I completed as a regular memeber with a a group in the club. Workshops also include exercises for students to practice what they learned.
 
 
 
