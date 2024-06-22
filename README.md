@@ -2,6 +2,10 @@
 
 Welcome to the UC Davis Data Science Club Projects and Workshops repository! This repository showcases various projects and workshops related to data science that I participated in and co-led during my tenure with the Davis Data Science Club.
 
+I initially participated as a regular member in the credit card fraud project under the leadership of Ru Han Wang. Later, I became an officer in the club, specifically serving as the education lead. In this role, I co-led workshops aimed at educating members about various aspects of data science.
+
+Feel free to explore each project and workshop located in their respective folders to gain insights into the data science techniques and methodologies taught and applied within our club.
+
 ## Overview
 
 ### 1. Credit Card Fraud Project
@@ -58,7 +62,3 @@ Welcome to the UC Davis Data Science Club Projects and Workshops repository! Thi
 - **File:** `Workshops/SQL Workshops/SQL Workshop 2.pptx`
 - **Description:** Advanced SQL workshop, co-led with Apoorva Hooda and Steven Ha.
   - Covers review of SQL basics, continued exploration of joins, and introduction to analytic functions.
-
-I initially participated as a regular member in the credit card fraud project under the leadership of Ru Han Wang. Later, I became an officer in the club, specifically serving as the education lead. In this role, I co-led workshops aimed at educating members about various aspects of data science.
-
-Feel free to explore each project and workshop located in their respective folders to gain insights into the data science techniques and methodologies taught and applied within our club.
