@@ -18,33 +18,61 @@ This repository contains a group project and workshops I co-led for the Davis Da
   - Feature engineering and frequency encoding explanation fro decision tree
   - model accuracy and results inlduing hyperparameter improvements
 
-### 2. Titanic Competition
-- **File:** `Titanic ML Submission.ipynb`
-- **Description:** Predicts survival on the Titanic using machine learning models.
-  - Handles missing data in 'Age', 'Fare', and 'Embarked'.
-  - Applies one-hot encoding to categorical features.
-  - Trains RandomForest, XGBoost, KNeighbors, and GradientBoosting classifiers, stacking predictions with XGBoost for final submission.
+### 2. Data Visualization Workshop
+- **File:** `Data Visualization Workshop.ipynb`
+- **Description:** Teaching how to do data visualization in R and Python. Collaborative effort with Apoorva Hooda and Steven Ha
+  - Goes over different plots in ggplot2
+  - Goes over matplotlib
+  - Goes over seaborn
+- **File:** `Data Visualization Workshop.pptx`
+- **Description:** Presentation Slides to accompany code file. Collaborative effort with Apoorva Hooda and Steven Ha
+  - importnace of data visualization and what it is
+  - Good vs. Bad visualziations
+  - Ggplot2, matplotliv, seaborn
 
-### 3. Predict Future Sales Competition
-- **File:** `Predict Future Sales Submission 1.ipynb`
-- **Description:** Predicts total sales for the next month using machine learning.
-  - Prepares data by dropping unnecessary columns and training a RandomForestRegressor model.
-  - Generates predictions and saves results to submission.csv.
+### 3. ML Project Workshops
+- **File:** `ML Project Workshop 1.ipynb`
+- **Description:** First half of a follow along machine learning project. Detect whether there is a fire or not. Collaborative effort with Apoorva Hooda and Steven Ha
+  - Load data
+  - Clean data
+  - Visualzie Data
+- **File:** `ML Project Workshop 1.pptx`
+- **Description:** Presentation Slides to accompany code file. Collaborative effort with Apoorva Hooda and Steven Ha
+  - Introduction to data
+  - Set Up Environment
+  - Exploratory Data Analysis
+- **File:** `ML Project Workshop 2.ipynb`
+- **Description:** Second half of a follow along machine learning project. Machine Learning alrogitims comaprions for detection of fire or not. Collaborative effort with Apoorva Hooda and Steven Ha
+  - Train and Test Splitting
+  - Machine Learning Algorithms
+  - Evaluating Accuracy
+- **File:** `ML Project Workshop 2.pptx`
+- **Description:** Presentation Slides to accompany code file. Collaborative effort with Apoorva Hooda and Steven Ha
+  - Types of Learning Algorithms
+  - Train/Test/Validation split, Overfitting, Cross-validation
+  - Metrics and improving the models
 
-- **File:** `Predict Future Sales Submission 2.ipynb`
-- **Description:** Collaborative effort with Ajay Kumaar.
-  - Cleans data by handling missing values, extracting date-related features, and encoding categorical variables.
-  - Trains multiple classifiers (RandomForestClassifier, XGBClassifier, KNeighborsClassifier, SVC) and uses stacking for final predictions.
+### 4. R Workshop
+- **File:** `R Workshop.ipynb`
+- **Description:** Giving and introduction to R. Collaborative effort with Cindy Chen and Aditya Seth
+  - R Basics
+  - Data Exploration
+  - Data Cleansing
+  - Data Manipulation + Visualizations
+  - Ggplot2
+  - Regression
+- **File:** `Data Visualization Workshop.pptx`
+- **Description:** Presentation Slides to accompany code file. Collaborative effort with Apoorva Hooda and Steven Ha
+  - importnace of data visualization and what it is
+  - Good vs. Bad visualziations
+  - Ggplot2, matplotliv, seaborn
 
-## Data Sources
-- [Daily Temperature of Major Cities](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities)
-- [Titanic Data](https://www.kaggle.com/competitions/titanic/data)
-- [Predict Future Sales Data](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales/data)
 
-## Collaboration
-- The `Predict Future Sales Submission 2.ipynb` notebook was a collaboration with Ajay Kumaar.
 
-## Usage
-To explore these projects:
-- Load respective data on Kaggle.
-- Run the notebooks to reproduce the analyses and results.
+
+  
+
+
+
+
+
