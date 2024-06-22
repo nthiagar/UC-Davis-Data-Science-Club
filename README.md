@@ -36,7 +36,7 @@ Welcome to the UC Davis Data Science Club Projects and Workshops repository! Thi
 
 #### Workshop 2
 - **File:** `Workshops/ML Project Workshops/ML Project Workshop 2.ipynb`
-- **Description:** Second part of the fire detection machine learning project, continuing from Workshop 1.
+- **Description:** Second part of the fire detection machine learning project, continuing from Workshop 1. Co-led with Apoorva Hooda and Steven Ha.
   - Involves train/test splitting, comparison of machine learning algorithms, and evaluation of model accuracy.
 
 - **File:** `Workshops/ML Project Workshops/ML Project Workshop 2.pptx`
